@@ -1,6 +1,4 @@
-Sure! Here is a README file for your Cricket Game project:
 
----
 
 # Cricket Game
 
